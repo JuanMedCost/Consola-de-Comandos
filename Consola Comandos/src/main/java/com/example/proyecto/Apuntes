@@ -1,0 +1,18 @@
+Modelo-Vista-Controlador
+
+Crear metodo abstracto en la clase Proceso, la cual llamemos en otra clase llamada proceso grafico y terminemos de rellenarlo,
+para en controler usar el metodo y abra el proceso que nosotros queramos
+
+Guardar en un archivo lo que salga por terminal
+
+Para cambiar de escena o abrir una nueva, el metodo (y todos los demás) tiene que ir en la clase Proceso correspondiente.
+En la clase controlador, creamos un Objeto Proceso y llamamos al método usado ^ ahi arriba.
+En la clase controlador debemos tener solamente los metodos "onclick" de los controladores, llamando a los metodos creados en la clase Proceso.
+
+En el controller no puede haber logica (O MINIMA informacion posible)
+
+
+
+IDEAS GENIALMENTE ESTUPIDAS
+
+hacer un metdoo generico de proceso como el de paint o calculador que pille por param el tecto del texfield y lo utilice para crear un proceso.

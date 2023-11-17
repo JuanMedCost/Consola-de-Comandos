@@ -1,0 +1,1418 @@
+[23:49:59]: /help
+Los comandos disponibles son:
+- /cmd: Abre el cmd
+- /clear: Limpia la terminal
+- /vol: Muestra la etiqueta del volumen y el número de serie del disco.
+- /tree: Muestra la arquitectura del fichero
+- /ping: Dice a cuanto lag vas a jugar al lol
+- /ip: Sale la ip del dispositivo
+- /mkdir: Crea un directorio en el Disco C
+- /mkdir + nombre: Crea un directorio en el Disco C con ese nombre
+- /calc: Abre la calculadora
+- /paint: Abre el paint
+- /exit: po´ saleh
+- /apagar: Final del mundo
+- /reiniciar: Reinicia el equipo
+- /no se me ha ocurrido aun
+[23:49:59]: /help
+Los comandos disponibles son:
+- /cmd: Abre el cmd
+- /clear: Limpia la terminal
+- /vol: Muestra la etiqueta del volumen y el número de serie del disco.
+- /tree: Muestra la arquitectura del fichero
+- /ping: Dice a cuanto lag vas a jugar al lol
+- /ip: Sale la ip del dispositivo
+- /mkdir: Crea un directorio en el Disco C
+- /mkdir + nombre: Crea un directorio en el Disco C con ese nombre
+- /calc: Abre la calculadora
+- /paint: Abre el paint
+- /exit: po´ saleh
+- /apagar: Final del mundo
+- /reiniciar: Reinicia el equipo
+- /no se me ha ocurrido aun
+[23:50:13]: /tree
+El n�mero de serie del volumen es 801C-E1A8
+C:.
+����example
+    ����proyecto
+null
+Fichero creado[23:51:48]: /tree
+El n�mero de serie del volumen es 801C-E1A8
+C:.
+����example
+    ����proyecto
+[13:54:44]: /comandos
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[13:54:44]: /comandos
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[13:54:49]: /help
+Los comandos disponibles son:
+- /cmd: Abre el cmd
+- /clear: Limpia la terminal
+- /vol: Muestra la etiqueta del volumen y el número de serie del disco.
+- /tree: Muestra la arquitectura del fichero
+- /ping: Dice a cuanto lag vas a jugar al lol
+- /ip: Sale la ip del dispositivo
+- /mkdir: Crea un directorio en el Disco C
+- /mkdir + nombre: Crea un directorio en el Disco C con ese nombre
+- /calc: Abre la calculadora
+- /paint: Abre el paint
+- /exit: po´ saleh
+- /apagar: Final del mundo
+- /reiniciar: Reinicia el equipo
+- /no se me ha ocurrido aun
+[13:54:44]: /comandos
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[13:54:49]: /help
+Los comandos disponibles son:
+- /cmd: Abre el cmd
+- /clear: Limpia la terminal
+- /vol: Muestra la etiqueta del volumen y el número de serie del disco.
+- /tree: Muestra la arquitectura del fichero
+- /ping: Dice a cuanto lag vas a jugar al lol
+- /ip: Sale la ip del dispositivo
+- /mkdir: Crea un directorio en el Disco C
+- /mkdir + nombre: Crea un directorio en el Disco C con ese nombre
+- /calc: Abre la calculadora
+- /paint: Abre el paint
+- /exit: po´ saleh
+- /apagar: Final del mundo
+- /reiniciar: Reinicia el equipo
+- /no se me ha ocurrido aun
+[13:55:06]: /ping
+Uso: ping [-t] [-a] [-n count] [-l size] [-f] [-i TTL] [-v TOS]
+          [-r count] [-s count] [[-j host-list] | [-k host-list]]
+          [-w timeout] [-R] [-S srcaddr] [-c compartment] [-p]
+          [-4] [-6] nombre_destino
+
+Opciones:
+ -t                  Hacer ping al host especificado hasta que se detenga.
+                     Para ver estad�sticas y continuar, presione
+                     Ctrl-Interrumpir; para detener, presione Ctrl+C.
+ -a                  Resolver direcciones en nombres de host.
+ -n count            N�mero de solicitudes de eco para enviar.
+ -l size             Enviar tama�o de b�fer.
+ -f                  Establecer marca No fragmentar en paquetes (solo IPv4).
+ -i TTL              Per�odo de vida.
+ -v TOS              Tipo de servicio (solo IPv4. Esta opci�n est� desusada y
+                     no tiene ning�n efecto sobre el campo de tipo de servicio
+                     del encabezado IP).
+ -r count            Registrar la ruta de saltos de cuenta (solo IPv4).
+ -s count            Marca de tiempo de saltos de cuenta (solo IPv4).
+ -j host-list        Ruta de origen no estricta para lista-host (solo IPv4).
+ -k host-list        Ruta de origen estricta para lista-host (solo IPv4).
+ -w timeout          Tiempo de espera en milisegundos para cada respuesta.
+ -R                  Usar encabezado de enrutamiento para probar tambi�n
+                     la ruta inversa (solo IPv6).
+                     Por RFC 5095 el uso de este encabezado de enrutamiento ha
+                     quedado en desuso. Es posible que algunos sistemas anulen
+                     solicitudes de eco si usa este encabezado.
+    -S srcaddr       Direcci�n de origen que se desea usar.
+    -c compartment   Enrutamiento del identificador del compartimiento.
+    -p               Hacer ping a la direcci�n del proveedor de Virtualizaci�n
+                     de red de Hyper-V.
+    -4               Forzar el uso de IPv4.
+    -6               Forzar el uso de IPv6.
+
+null
+Fichero creado[13:54:44]: /comandos
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[13:54:49]: /help
+Los comandos disponibles son:
+- /cmd: Abre el cmd
+- /clear: Limpia la terminal
+- /vol: Muestra la etiqueta del volumen y el número de serie del disco.
+- /tree: Muestra la arquitectura del fichero
+- /ping: Dice a cuanto lag vas a jugar al lol
+- /ip: Sale la ip del dispositivo
+- /mkdir: Crea un directorio en el Disco C
+- /mkdir + nombre: Crea un directorio en el Disco C con ese nombre
+- /calc: Abre la calculadora
+- /paint: Abre el paint
+- /exit: po´ saleh
+- /apagar: Final del mundo
+- /reiniciar: Reinicia el equipo
+- /no se me ha ocurrido aun
+[13:55:06]: /ping
+Uso: ping [-t] [-a] [-n count] [-l size] [-f] [-i TTL] [-v TOS]
+          [-r count] [-s count] [[-j host-list] | [-k host-list]]
+          [-w timeout] [-R] [-S srcaddr] [-c compartment] [-p]
+          [-4] [-6] nombre_destino
+
+Opciones:
+ -t                  Hacer ping al host especificado hasta que se detenga.
+                     Para ver estad�sticas y continuar, presione
+                     Ctrl-Interrumpir; para detener, presione Ctrl+C.
+ -a                  Resolver direcciones en nombres de host.
+ -n count            N�mero de solicitudes de eco para enviar.
+ -l size             Enviar tama�o de b�fer.
+ -f                  Establecer marca No fragmentar en paquetes (solo IPv4).
+ -i TTL              Per�odo de vida.
+ -v TOS              Tipo de servicio (solo IPv4. Esta opci�n est� desusada y
+                     no tiene ning�n efecto sobre el campo de tipo de servicio
+                     del encabezado IP).
+ -r count            Registrar la ruta de saltos de cuenta (solo IPv4).
+ -s count            Marca de tiempo de saltos de cuenta (solo IPv4).
+ -j host-list        Ruta de origen no estricta para lista-host (solo IPv4).
+ -k host-list        Ruta de origen estricta para lista-host (solo IPv4).
+ -w timeout          Tiempo de espera en milisegundos para cada respuesta.
+ -R                  Usar encabezado de enrutamiento para probar tambi�n
+                     la ruta inversa (solo IPv6).
+                     Por RFC 5095 el uso de este encabezado de enrutamiento ha
+                     quedado en desuso. Es posible que algunos sistemas anulen
+                     solicitudes de eco si usa este encabezado.
+    -S srcaddr       Direcci�n de origen que se desea usar.
+    -c compartment   Enrutamiento del identificador del compartimiento.
+    -p               Hacer ping a la direcci�n del proveedor de Virtualizaci�n
+                     de red de Hyper-V.
+    -4               Forzar el uso de IPv4.
+    -6               Forzar el uso de IPv6.
+
+null
+Fichero creado[13:55:13]: /tree
+El n�mero de serie del volumen es 781E-BDF5
+C:.
+����example
+    ����proyecto
+null
+Fichero creado[13:54:44]: /comandos
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[13:54:49]: /help
+Los comandos disponibles son:
+- /cmd: Abre el cmd
+- /clear: Limpia la terminal
+- /vol: Muestra la etiqueta del volumen y el número de serie del disco.
+- /tree: Muestra la arquitectura del fichero
+- /ping: Dice a cuanto lag vas a jugar al lol
+- /ip: Sale la ip del dispositivo
+- /mkdir: Crea un directorio en el Disco C
+- /mkdir + nombre: Crea un directorio en el Disco C con ese nombre
+- /calc: Abre la calculadora
+- /paint: Abre el paint
+- /exit: po´ saleh
+- /apagar: Final del mundo
+- /reiniciar: Reinicia el equipo
+- /no se me ha ocurrido aun
+[13:55:06]: /ping
+Uso: ping [-t] [-a] [-n count] [-l size] [-f] [-i TTL] [-v TOS]
+          [-r count] [-s count] [[-j host-list] | [-k host-list]]
+          [-w timeout] [-R] [-S srcaddr] [-c compartment] [-p]
+          [-4] [-6] nombre_destino
+
+Opciones:
+ -t                  Hacer ping al host especificado hasta que se detenga.
+                     Para ver estad�sticas y continuar, presione
+                     Ctrl-Interrumpir; para detener, presione Ctrl+C.
+ -a                  Resolver direcciones en nombres de host.
+ -n count            N�mero de solicitudes de eco para enviar.
+ -l size             Enviar tama�o de b�fer.
+ -f                  Establecer marca No fragmentar en paquetes (solo IPv4).
+ -i TTL              Per�odo de vida.
+ -v TOS              Tipo de servicio (solo IPv4. Esta opci�n est� desusada y
+                     no tiene ning�n efecto sobre el campo de tipo de servicio
+                     del encabezado IP).
+ -r count            Registrar la ruta de saltos de cuenta (solo IPv4).
+ -s count            Marca de tiempo de saltos de cuenta (solo IPv4).
+ -j host-list        Ruta de origen no estricta para lista-host (solo IPv4).
+ -k host-list        Ruta de origen estricta para lista-host (solo IPv4).
+ -w timeout          Tiempo de espera en milisegundos para cada respuesta.
+ -R                  Usar encabezado de enrutamiento para probar tambi�n
+                     la ruta inversa (solo IPv6).
+                     Por RFC 5095 el uso de este encabezado de enrutamiento ha
+                     quedado en desuso. Es posible que algunos sistemas anulen
+                     solicitudes de eco si usa este encabezado.
+    -S srcaddr       Direcci�n de origen que se desea usar.
+    -c compartment   Enrutamiento del identificador del compartimiento.
+    -p               Hacer ping a la direcci�n del proveedor de Virtualizaci�n
+                     de red de Hyper-V.
+    -4               Forzar el uso de IPv4.
+    -6               Forzar el uso de IPv6.
+
+null
+Fichero creado[13:55:13]: /tree
+El n�mero de serie del volumen es 781E-BDF5
+C:.
+����example
+    ����proyecto
+null
+Fichero creado[13:55:22]: /help
+Los comandos disponibles son:
+- /cmd: Abre el cmd
+- /clear: Limpia la terminal
+- /vol: Muestra la etiqueta del volumen y el número de serie del disco.
+- /tree: Muestra la arquitectura del fichero
+- /ping: Dice a cuanto lag vas a jugar al lol
+- /ip: Sale la ip del dispositivo
+- /mkdir: Crea un directorio en el Disco C
+- /mkdir + nombre: Crea un directorio en el Disco C con ese nombre
+- /calc: Abre la calculadora
+- /paint: Abre el paint
+- /exit: po´ saleh
+- /apagar: Final del mundo
+- /reiniciar: Reinicia el equipo
+- /no se me ha ocurrido aun
+[13:54:44]: /comandos
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[13:54:49]: /help
+Los comandos disponibles son:
+- /cmd: Abre el cmd
+- /clear: Limpia la terminal
+- /vol: Muestra la etiqueta del volumen y el número de serie del disco.
+- /tree: Muestra la arquitectura del fichero
+- /ping: Dice a cuanto lag vas a jugar al lol
+- /ip: Sale la ip del dispositivo
+- /mkdir: Crea un directorio en el Disco C
+- /mkdir + nombre: Crea un directorio en el Disco C con ese nombre
+- /calc: Abre la calculadora
+- /paint: Abre el paint
+- /exit: po´ saleh
+- /apagar: Final del mundo
+- /reiniciar: Reinicia el equipo
+- /no se me ha ocurrido aun
+[13:55:06]: /ping
+Uso: ping [-t] [-a] [-n count] [-l size] [-f] [-i TTL] [-v TOS]
+          [-r count] [-s count] [[-j host-list] | [-k host-list]]
+          [-w timeout] [-R] [-S srcaddr] [-c compartment] [-p]
+          [-4] [-6] nombre_destino
+
+Opciones:
+ -t                  Hacer ping al host especificado hasta que se detenga.
+                     Para ver estad�sticas y continuar, presione
+                     Ctrl-Interrumpir; para detener, presione Ctrl+C.
+ -a                  Resolver direcciones en nombres de host.
+ -n count            N�mero de solicitudes de eco para enviar.
+ -l size             Enviar tama�o de b�fer.
+ -f                  Establecer marca No fragmentar en paquetes (solo IPv4).
+ -i TTL              Per�odo de vida.
+ -v TOS              Tipo de servicio (solo IPv4. Esta opci�n est� desusada y
+                     no tiene ning�n efecto sobre el campo de tipo de servicio
+                     del encabezado IP).
+ -r count            Registrar la ruta de saltos de cuenta (solo IPv4).
+ -s count            Marca de tiempo de saltos de cuenta (solo IPv4).
+ -j host-list        Ruta de origen no estricta para lista-host (solo IPv4).
+ -k host-list        Ruta de origen estricta para lista-host (solo IPv4).
+ -w timeout          Tiempo de espera en milisegundos para cada respuesta.
+ -R                  Usar encabezado de enrutamiento para probar tambi�n
+                     la ruta inversa (solo IPv6).
+                     Por RFC 5095 el uso de este encabezado de enrutamiento ha
+                     quedado en desuso. Es posible que algunos sistemas anulen
+                     solicitudes de eco si usa este encabezado.
+    -S srcaddr       Direcci�n de origen que se desea usar.
+    -c compartment   Enrutamiento del identificador del compartimiento.
+    -p               Hacer ping a la direcci�n del proveedor de Virtualizaci�n
+                     de red de Hyper-V.
+    -4               Forzar el uso de IPv4.
+    -6               Forzar el uso de IPv6.
+
+null
+Fichero creado[13:55:13]: /tree
+El n�mero de serie del volumen es 781E-BDF5
+C:.
+����example
+    ����proyecto
+null
+Fichero creado[13:55:22]: /help
+Los comandos disponibles son:
+- /cmd: Abre el cmd
+- /clear: Limpia la terminal
+- /vol: Muestra la etiqueta del volumen y el número de serie del disco.
+- /tree: Muestra la arquitectura del fichero
+- /ping: Dice a cuanto lag vas a jugar al lol
+- /ip: Sale la ip del dispositivo
+- /mkdir: Crea un directorio en el Disco C
+- /mkdir + nombre: Crea un directorio en el Disco C con ese nombre
+- /calc: Abre la calculadora
+- /paint: Abre el paint
+- /exit: po´ saleh
+- /apagar: Final del mundo
+- /reiniciar: Reinicia el equipo
+- /no se me ha ocurrido aun
+[13:55:26]: /ip
+Configuraci�n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec�fico para la conexi�n. . : 
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS espec�fico para la conexi�n. . : 
+   V�nculo: direcci�n IPv6 local. . . : fe80::66b4:260c:8140:3393%11
+   Direcci�n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M�scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal�mbrica Conexi�n de �rea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec�fico para la conexi�n. . : 
+
+Adaptador de LAN inal�mbrica Conexi�n de �rea local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec�fico para la conexi�n. . : 
+
+Adaptador de Ethernet VMware Network Adapter VMnet1:
+
+   Sufijo DNS espec�fico para la conexi�n. . : 
+   V�nculo: direcci�n IPv6 local. . . : fe80::eafd:11ab:7327:c318%10
+   Direcci�n IPv4. . . . . . . . . . . . . . : 192.168.30.1
+   M�scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de Ethernet VMware Network Adapter VMnet8:
+
+   Sufijo DNS espec�fico para la conexi�n. . : 
+   V�nculo: direcci�n IPv6 local. . . : fe80::380a:23d9:123f:14de%20
+   Direcci�n IPv4. . . . . . . . . . . . . . : 192.168.158.1
+   M�scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal�mbrica Wi-Fi:
+
+   Sufijo DNS espec�fico para la conexi�n. . : 
+   V�nculo: direcci�n IPv6 local. . . : fe80::455a:36e6:4f3e:364%17
+   Direcci�n IPv4. . . . . . . . . . . . . . : 10.140.0.146
+   M�scara de subred . . . . . . . . . . . . : 255.255.0.0
+   Puerta de enlace predeterminada . . . . . : 10.140.0.1
+null
+Fichero creado[13:54:44]: /comandos
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[13:54:49]: /help
+Los comandos disponibles son:
+- /cmd: Abre el cmd
+- /clear: Limpia la terminal
+- /vol: Muestra la etiqueta del volumen y el número de serie del disco.
+- /tree: Muestra la arquitectura del fichero
+- /ping: Dice a cuanto lag vas a jugar al lol
+- /ip: Sale la ip del dispositivo
+- /mkdir: Crea un directorio en el Disco C
+- /mkdir + nombre: Crea un directorio en el Disco C con ese nombre
+- /calc: Abre la calculadora
+- /paint: Abre el paint
+- /exit: po´ saleh
+- /apagar: Final del mundo
+- /reiniciar: Reinicia el equipo
+- /no se me ha ocurrido aun
+[13:55:06]: /ping
+Uso: ping [-t] [-a] [-n count] [-l size] [-f] [-i TTL] [-v TOS]
+          [-r count] [-s count] [[-j host-list] | [-k host-list]]
+          [-w timeout] [-R] [-S srcaddr] [-c compartment] [-p]
+          [-4] [-6] nombre_destino
+
+Opciones:
+ -t                  Hacer ping al host especificado hasta que se detenga.
+                     Para ver estad�sticas y continuar, presione
+                     Ctrl-Interrumpir; para detener, presione Ctrl+C.
+ -a                  Resolver direcciones en nombres de host.
+ -n count            N�mero de solicitudes de eco para enviar.
+ -l size             Enviar tama�o de b�fer.
+ -f                  Establecer marca No fragmentar en paquetes (solo IPv4).
+ -i TTL              Per�odo de vida.
+ -v TOS              Tipo de servicio (solo IPv4. Esta opci�n est� desusada y
+                     no tiene ning�n efecto sobre el campo de tipo de servicio
+                     del encabezado IP).
+ -r count            Registrar la ruta de saltos de cuenta (solo IPv4).
+ -s count            Marca de tiempo de saltos de cuenta (solo IPv4).
+ -j host-list        Ruta de origen no estricta para lista-host (solo IPv4).
+ -k host-list        Ruta de origen estricta para lista-host (solo IPv4).
+ -w timeout          Tiempo de espera en milisegundos para cada respuesta.
+ -R                  Usar encabezado de enrutamiento para probar tambi�n
+                     la ruta inversa (solo IPv6).
+                     Por RFC 5095 el uso de este encabezado de enrutamiento ha
+                     quedado en desuso. Es posible que algunos sistemas anulen
+                     solicitudes de eco si usa este encabezado.
+    -S srcaddr       Direcci�n de origen que se desea usar.
+    -c compartment   Enrutamiento del identificador del compartimiento.
+    -p               Hacer ping a la direcci�n del proveedor de Virtualizaci�n
+                     de red de Hyper-V.
+    -4               Forzar el uso de IPv4.
+    -6               Forzar el uso de IPv6.
+
+null
+Fichero creado[13:55:13]: /tree
+El n�mero de serie del volumen es 781E-BDF5
+C:.
+����example
+    ����proyecto
+null
+Fichero creado[13:55:22]: /help
+Los comandos disponibles son:
+- /cmd: Abre el cmd
+- /clear: Limpia la terminal
+- /vol: Muestra la etiqueta del volumen y el número de serie del disco.
+- /tree: Muestra la arquitectura del fichero
+- /ping: Dice a cuanto lag vas a jugar al lol
+- /ip: Sale la ip del dispositivo
+- /mkdir: Crea un directorio en el Disco C
+- /mkdir + nombre: Crea un directorio en el Disco C con ese nombre
+- /calc: Abre la calculadora
+- /paint: Abre el paint
+- /exit: po´ saleh
+- /apagar: Final del mundo
+- /reiniciar: Reinicia el equipo
+- /no se me ha ocurrido aun
+[13:55:26]: /ip
+Configuraci�n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec�fico para la conexi�n. . : 
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS espec�fico para la conexi�n. . : 
+   V�nculo: direcci�n IPv6 local. . . : fe80::66b4:260c:8140:3393%11
+   Direcci�n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M�scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal�mbrica Conexi�n de �rea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec�fico para la conexi�n. . : 
+
+Adaptador de LAN inal�mbrica Conexi�n de �rea local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec�fico para la conexi�n. . : 
+
+Adaptador de Ethernet VMware Network Adapter VMnet1:
+
+   Sufijo DNS espec�fico para la conexi�n. . : 
+   V�nculo: direcci�n IPv6 local. . . : fe80::eafd:11ab:7327:c318%10
+   Direcci�n IPv4. . . . . . . . . . . . . . : 192.168.30.1
+   M�scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de Ethernet VMware Network Adapter VMnet8:
+
+   Sufijo DNS espec�fico para la conexi�n. . : 
+   V�nculo: direcci�n IPv6 local. . . : fe80::380a:23d9:123f:14de%20
+   Direcci�n IPv4. . . . . . . . . . . . . . : 192.168.158.1
+   M�scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal�mbrica Wi-Fi:
+
+   Sufijo DNS espec�fico para la conexi�n. . : 
+   V�nculo: direcci�n IPv6 local. . . : fe80::455a:36e6:4f3e:364%17
+   Direcci�n IPv4. . . . . . . . . . . . . . : 10.140.0.146
+   M�scara de subred . . . . . . . . . . . . : 255.255.0.0
+   Puerta de enlace predeterminada . . . . . : 10.140.0.1
+null
+Fichero creado[13:55:33]: /exot
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[13:54:44]: /comandos
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[13:54:49]: /help
+Los comandos disponibles son:
+- /cmd: Abre el cmd
+- /clear: Limpia la terminal
+- /vol: Muestra la etiqueta del volumen y el número de serie del disco.
+- /tree: Muestra la arquitectura del fichero
+- /ping: Dice a cuanto lag vas a jugar al lol
+- /ip: Sale la ip del dispositivo
+- /mkdir: Crea un directorio en el Disco C
+- /mkdir + nombre: Crea un directorio en el Disco C con ese nombre
+- /calc: Abre la calculadora
+- /paint: Abre el paint
+- /exit: po´ saleh
+- /apagar: Final del mundo
+- /reiniciar: Reinicia el equipo
+- /no se me ha ocurrido aun
+[13:55:06]: /ping
+Uso: ping [-t] [-a] [-n count] [-l size] [-f] [-i TTL] [-v TOS]
+          [-r count] [-s count] [[-j host-list] | [-k host-list]]
+          [-w timeout] [-R] [-S srcaddr] [-c compartment] [-p]
+          [-4] [-6] nombre_destino
+
+Opciones:
+ -t                  Hacer ping al host especificado hasta que se detenga.
+                     Para ver estad�sticas y continuar, presione
+                     Ctrl-Interrumpir; para detener, presione Ctrl+C.
+ -a                  Resolver direcciones en nombres de host.
+ -n count            N�mero de solicitudes de eco para enviar.
+ -l size             Enviar tama�o de b�fer.
+ -f                  Establecer marca No fragmentar en paquetes (solo IPv4).
+ -i TTL              Per�odo de vida.
+ -v TOS              Tipo de servicio (solo IPv4. Esta opci�n est� desusada y
+                     no tiene ning�n efecto sobre el campo de tipo de servicio
+                     del encabezado IP).
+ -r count            Registrar la ruta de saltos de cuenta (solo IPv4).
+ -s count            Marca de tiempo de saltos de cuenta (solo IPv4).
+ -j host-list        Ruta de origen no estricta para lista-host (solo IPv4).
+ -k host-list        Ruta de origen estricta para lista-host (solo IPv4).
+ -w timeout          Tiempo de espera en milisegundos para cada respuesta.
+ -R                  Usar encabezado de enrutamiento para probar tambi�n
+                     la ruta inversa (solo IPv6).
+                     Por RFC 5095 el uso de este encabezado de enrutamiento ha
+                     quedado en desuso. Es posible que algunos sistemas anulen
+                     solicitudes de eco si usa este encabezado.
+    -S srcaddr       Direcci�n de origen que se desea usar.
+    -c compartment   Enrutamiento del identificador del compartimiento.
+    -p               Hacer ping a la direcci�n del proveedor de Virtualizaci�n
+                     de red de Hyper-V.
+    -4               Forzar el uso de IPv4.
+    -6               Forzar el uso de IPv6.
+
+null
+Fichero creado[13:55:13]: /tree
+El n�mero de serie del volumen es 781E-BDF5
+C:.
+����example
+    ����proyecto
+null
+Fichero creado[13:55:22]: /help
+Los comandos disponibles son:
+- /cmd: Abre el cmd
+- /clear: Limpia la terminal
+- /vol: Muestra la etiqueta del volumen y el número de serie del disco.
+- /tree: Muestra la arquitectura del fichero
+- /ping: Dice a cuanto lag vas a jugar al lol
+- /ip: Sale la ip del dispositivo
+- /mkdir: Crea un directorio en el Disco C
+- /mkdir + nombre: Crea un directorio en el Disco C con ese nombre
+- /calc: Abre la calculadora
+- /paint: Abre el paint
+- /exit: po´ saleh
+- /apagar: Final del mundo
+- /reiniciar: Reinicia el equipo
+- /no se me ha ocurrido aun
+[13:55:26]: /ip
+Configuraci�n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec�fico para la conexi�n. . : 
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS espec�fico para la conexi�n. . : 
+   V�nculo: direcci�n IPv6 local. . . : fe80::66b4:260c:8140:3393%11
+   Direcci�n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M�scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal�mbrica Conexi�n de �rea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec�fico para la conexi�n. . : 
+
+Adaptador de LAN inal�mbrica Conexi�n de �rea local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec�fico para la conexi�n. . : 
+
+Adaptador de Ethernet VMware Network Adapter VMnet1:
+
+   Sufijo DNS espec�fico para la conexi�n. . : 
+   V�nculo: direcci�n IPv6 local. . . : fe80::eafd:11ab:7327:c318%10
+   Direcci�n IPv4. . . . . . . . . . . . . . : 192.168.30.1
+   M�scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de Ethernet VMware Network Adapter VMnet8:
+
+   Sufijo DNS espec�fico para la conexi�n. . : 
+   V�nculo: direcci�n IPv6 local. . . : fe80::380a:23d9:123f:14de%20
+   Direcci�n IPv4. . . . . . . . . . . . . . : 192.168.158.1
+   M�scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal�mbrica Wi-Fi:
+
+   Sufijo DNS espec�fico para la conexi�n. . : 
+   V�nculo: direcci�n IPv6 local. . . : fe80::455a:36e6:4f3e:364%17
+   Direcci�n IPv4. . . . . . . . . . . . . . : 10.140.0.146
+   M�scara de subred . . . . . . . . . . . . : 255.255.0.0
+   Puerta de enlace predeterminada . . . . . : 10.140.0.1
+null
+Fichero creado[13:55:33]: /exot
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[13:55:35]: /exit
+[13:56:30]: /mkdir hola
+Se ha creado un directorio en "C:/hola"
+[13:56:30]: /mkdir hola
+Se ha creado un directorio en "C:/hola"
+[13:56:57]: /help
+Los comandos disponibles son:
+- /cmd: Abre el cmd
+- /clear: Limpia la terminal
+- /vol: Muestra la etiqueta del volumen y el número de serie del disco.
+- /tree: Muestra la arquitectura del fichero
+- /ping: Dice a cuanto lag vas a jugar al lol
+- /ip: Sale la ip del dispositivo
+- /mkdir: Crea un directorio en el Disco C
+- /mkdir + nombre: Crea un directorio en el Disco C con ese nombre
+- /calc: Abre la calculadora
+- /paint: Abre el paint
+- /exit: po´ saleh
+- /apagar: Final del mundo
+- /reiniciar: Reinicia el equipo
+- /no se me ha ocurrido aun
+[13:56:30]: /mkdir hola
+Se ha creado un directorio en "C:/hola"
+[13:56:57]: /help
+Los comandos disponibles son:
+- /cmd: Abre el cmd
+- /clear: Limpia la terminal
+- /vol: Muestra la etiqueta del volumen y el número de serie del disco.
+- /tree: Muestra la arquitectura del fichero
+- /ping: Dice a cuanto lag vas a jugar al lol
+- /ip: Sale la ip del dispositivo
+- /mkdir: Crea un directorio en el Disco C
+- /mkdir + nombre: Crea un directorio en el Disco C con ese nombre
+- /calc: Abre la calculadora
+- /paint: Abre el paint
+- /exit: po´ saleh
+- /apagar: Final del mundo
+- /reiniciar: Reinicia el equipo
+- /no se me ha ocurrido aun
+[13:57:07]: /exit
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:04:05]: a
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:04:05]: a
+[14:04:05]: a
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:04:05]: a
+[14:04:05]: a
+[14:04:06]: a
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:04:05]: a
+[14:04:05]: a
+[14:04:06]: a
+[14:04:06]: a
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:04:05]: a
+[14:04:05]: a
+[14:04:06]: a
+[14:04:06]: a
+[14:04:06]: aa
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:04:05]: a
+[14:04:05]: a
+[14:04:06]: a
+[14:04:06]: a
+[14:04:06]: aa
+[14:04:07]: a
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:04:05]: a
+[14:04:05]: a
+[14:04:06]: a
+[14:04:06]: a
+[14:04:06]: aa
+[14:04:07]: a
+[14:04:07]: aa
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:04:05]: a
+[14:04:05]: a
+[14:04:06]: a
+[14:04:06]: a
+[14:04:06]: aa
+[14:04:07]: a
+[14:04:07]: aa
+[14:04:08]: amads
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:04:05]: a
+[14:04:05]: a
+[14:04:06]: a
+[14:04:06]: a
+[14:04:06]: aa
+[14:04:07]: a
+[14:04:07]: aa
+[14:04:08]: amads
+[14:04:08]: asd
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:04:05]: a
+[14:04:05]: a
+[14:04:06]: a
+[14:04:06]: a
+[14:04:06]: aa
+[14:04:07]: a
+[14:04:07]: aa
+[14:04:08]: amads
+[14:04:08]: asd
+[14:04:08]: as
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:04:05]: a
+[14:04:05]: a
+[14:04:06]: a
+[14:04:06]: a
+[14:04:06]: aa
+[14:04:07]: a
+[14:04:07]: aa
+[14:04:08]: amads
+[14:04:08]: asd
+[14:04:08]: as
+[14:04:09]: s
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:04:05]: a
+[14:04:05]: a
+[14:04:06]: a
+[14:04:06]: a
+[14:04:06]: aa
+[14:04:07]: a
+[14:04:07]: aa
+[14:04:08]: amads
+[14:04:08]: asd
+[14:04:08]: as
+[14:04:09]: s
+[14:04:09]: ss
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:04:05]: a
+[14:04:05]: a
+[14:04:06]: a
+[14:04:06]: a
+[14:04:06]: aa
+[14:04:07]: a
+[14:04:07]: aa
+[14:04:08]: amads
+[14:04:08]: asd
+[14:04:08]: as
+[14:04:09]: s
+[14:04:09]: ss
+[14:04:09]: s
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:04:05]: a
+[14:04:05]: a
+[14:04:06]: a
+[14:04:06]: a
+[14:04:06]: aa
+[14:04:07]: a
+[14:04:07]: aa
+[14:04:08]: amads
+[14:04:08]: asd
+[14:04:08]: as
+[14:04:09]: s
+[14:04:09]: ss
+[14:04:09]: s
+[14:04:09]: s
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:04:05]: a
+[14:04:05]: a
+[14:04:06]: a
+[14:04:06]: a
+[14:04:06]: aa
+[14:04:07]: a
+[14:04:07]: aa
+[14:04:08]: amads
+[14:04:08]: asd
+[14:04:08]: as
+[14:04:09]: s
+[14:04:09]: ss
+[14:04:09]: s
+[14:04:09]: s
+[14:04:10]: ss
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:04:05]: a
+[14:04:05]: a
+[14:04:06]: a
+[14:04:06]: a
+[14:04:06]: aa
+[14:04:07]: a
+[14:04:07]: aa
+[14:04:08]: amads
+[14:04:08]: asd
+[14:04:08]: as
+[14:04:09]: s
+[14:04:09]: ss
+[14:04:09]: s
+[14:04:09]: s
+[14:04:10]: ss
+[14:04:10]: sd
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:04:05]: a
+[14:04:05]: a
+[14:04:06]: a
+[14:04:06]: a
+[14:04:06]: aa
+[14:04:07]: a
+[14:04:07]: aa
+[14:04:08]: amads
+[14:04:08]: asd
+[14:04:08]: as
+[14:04:09]: s
+[14:04:09]: ss
+[14:04:09]: s
+[14:04:09]: s
+[14:04:10]: ss
+[14:04:10]: sd
+[14:04:11]: d
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:04:05]: a
+[14:04:05]: a
+[14:04:06]: a
+[14:04:06]: a
+[14:04:06]: aa
+[14:04:07]: a
+[14:04:07]: aa
+[14:04:08]: amads
+[14:04:08]: asd
+[14:04:08]: as
+[14:04:09]: s
+[14:04:09]: ss
+[14:04:09]: s
+[14:04:09]: s
+[14:04:10]: ss
+[14:04:10]: sd
+[14:04:11]: d
+[14:04:11]: d
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:04:05]: a
+[14:04:05]: a
+[14:04:06]: a
+[14:04:06]: a
+[14:04:06]: aa
+[14:04:07]: a
+[14:04:07]: aa
+[14:04:08]: amads
+[14:04:08]: asd
+[14:04:08]: as
+[14:04:09]: s
+[14:04:09]: ss
+[14:04:09]: s
+[14:04:09]: s
+[14:04:10]: ss
+[14:04:10]: sd
+[14:04:11]: d
+[14:04:11]: d
+[14:04:11]: d
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:04:05]: a
+[14:04:05]: a
+[14:04:06]: a
+[14:04:06]: a
+[14:04:06]: aa
+[14:04:07]: a
+[14:04:07]: aa
+[14:04:08]: amads
+[14:04:08]: asd
+[14:04:08]: as
+[14:04:09]: s
+[14:04:09]: ss
+[14:04:09]: s
+[14:04:09]: s
+[14:04:10]: ss
+[14:04:10]: sd
+[14:04:11]: d
+[14:04:11]: d
+[14:04:11]: d
+[14:04:11]: d
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:04:05]: a
+[14:04:05]: a
+[14:04:06]: a
+[14:04:06]: a
+[14:04:06]: aa
+[14:04:07]: a
+[14:04:07]: aa
+[14:04:08]: amads
+[14:04:08]: asd
+[14:04:08]: as
+[14:04:09]: s
+[14:04:09]: ss
+[14:04:09]: s
+[14:04:09]: s
+[14:04:10]: ss
+[14:04:10]: sd
+[14:04:11]: d
+[14:04:11]: d
+[14:04:11]: d
+[14:04:11]: d
+[14:04:11]: da
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:04:05]: a
+[14:04:05]: a
+[14:04:06]: a
+[14:04:06]: a
+[14:04:06]: aa
+[14:04:07]: a
+[14:04:07]: aa
+[14:04:08]: amads
+[14:04:08]: asd
+[14:04:08]: as
+[14:04:09]: s
+[14:04:09]: ss
+[14:04:09]: s
+[14:04:09]: s
+[14:04:10]: ss
+[14:04:10]: sd
+[14:04:11]: d
+[14:04:11]: d
+[14:04:11]: d
+[14:04:11]: d
+[14:04:11]: da
+[14:04:12]: a
+[14:03:43]: /ad
+EL COMANDO INTRODUCIDO ES ERRONEO, puedes ayudarte con /help
+[14:03:46]: hola
+[14:03:51]: Bloc de notas
+[14:04:01]: ff
+[14:04:02]: a
+[14:04:02]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: a
+[14:04:03]: aa
+[14:04:04]: a
+[14:04:04]: aaa
+[14:04:05]: aa
+[14:04:05]: aa
+[14:04:05]: a
+[14:04:05]: a
+[14:04:06]: a
+[14:04:06]: a
+[14:04:06]: aa
+[14:04:07]: a
+[14:04:07]: aa
+[14:04:08]: amads
+[14:04:08]: asd
+[14:04:08]: as
+[14:04:09]: s
+[14:04:09]: ss
+[14:04:09]: s
+[14:04:09]: s
+[14:04:10]: ss
+[14:04:10]: sd
+[14:04:11]: d
+[14:04:11]: d
+[14:04:11]: d
+[14:04:11]: d
+[14:04:11]: da
+[14:04:12]: a
+[14:04:12]: aa
